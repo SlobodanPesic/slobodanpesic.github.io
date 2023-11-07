@@ -6,6 +6,8 @@
 
 body {
   background-image: url(./Contour\ Line.png);
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 header {
